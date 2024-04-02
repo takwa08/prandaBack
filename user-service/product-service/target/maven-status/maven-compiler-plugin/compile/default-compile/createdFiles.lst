@@ -1,0 +1,6 @@
+com\esprit\products\controllers\ProductController.class
+com\esprit\products\entitites\product\Product.class
+com\esprit\products\entitites\user\User.class
+com\esprit\products\ParandaApplication.class
+com\esprit\products\repositories\ProductRepository.class
+com\esprit\products\services\ProductService.class
